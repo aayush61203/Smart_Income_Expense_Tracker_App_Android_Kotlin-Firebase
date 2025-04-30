@@ -5,7 +5,6 @@
 ![Language](https://img.shields.io/badge/Kotlin-100%25-purple?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-Used-yellow?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Working-brightgreen?style=for-the-badge)
 
 A simple and efficient **Android app** to track your **daily income and expenses** with Firebase integration. This is my first Kotlin-based mobile application, designed to offer clean UI/UX and useful financial tracking features for day-to-day use.
 
