@@ -45,7 +45,7 @@ The app allows users to:
 3. Tap the APK file and install.
 
 You can download the APK from this link:  
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/aayush61203/MotivationQuotesApp-Kotlin/releases/download/v1.0/Budget%20Buddy.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/aayush61203/Smart_Income_Expense_Tracker_App_Android_Kotlin-Firebase/releases/download/v1.0/Budget%20Buddy.apk)
 
 ---
 
