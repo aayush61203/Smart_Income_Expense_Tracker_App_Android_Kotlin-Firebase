@@ -1,6 +1,6 @@
 # Smart Income & Expense Tracker App (Android, Kotlin, Firebase)
 It is a simple money tracker Android app, where you can record and track all your expenses and income. The goal is to make expense/income tracking as simple as posible, where users can easily record and track every transaction they make with a simple mobile app. <br><br>
-[![Download App](https://img.shields.io/badge/Download-APK-green)](https://github.com/ferry582/CatatUang/raw/master/Catat%20Uang.apk)
+[![Download App](https://img.shields.io/badge/Download-APK-green)](https://github.com/aayush61203/Smart_Income_Expense_Tracker_App_Android_Kotlin-Firebase/blob/ea0842a14b3e423003c9a58cce860e048c3da36f/Catat%20Uang.apk)
 
 ## Description :memo:
 I use Kotlin to build the app and use Firebase to authenticate users, also Firebase database to store all transaction data. This app is the first android app that i've ever made, so there are still many things that can be improved and added to this application.
